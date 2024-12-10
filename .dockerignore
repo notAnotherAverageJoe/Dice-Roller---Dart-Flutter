@@ -1,0 +1,9 @@
+build/
+ios/
+android/
+test/
+*.git
+*.idea
+*.dart_tool
+*.packages
+*.pub
