@@ -14,7 +14,7 @@ Welcome to the **Dice Roller App**, where rolling dice is as fun and customizabl
 - Roll **1 to 3 dice** at once.
 - Choose from **2 to 20 sides** per die.  
   🎨 **Custom Dice Colors**: Change the dice color with a simple tap.  
-  ✨ **Real-Time Results**: View your dice rolls instantly on a sleek interface.
+  ✨ **Real-Time Results**: View your dice rolls instantly on a sleek interface!!.
 
 ## 🛠️ **How to Run**
 
